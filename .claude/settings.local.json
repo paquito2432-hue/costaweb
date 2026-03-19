@@ -1,0 +1,22 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(netstat:*)",
+      "Bash(start:*)",
+      "Bash(timeout /t 5:*)",
+      "Bash(npm install:*)",
+      "Bash(npm run:*)",
+      "Bash(powershell:*)",
+      "Bash(cmd:*)",
+      "Bash(node:*)",
+      "Bash(cd C:\\\\Users\\\\Francisco Alderete\\\\Documents\\\\club-costa-hub-main:*)",
+      "Bash(cd:*)",
+      "Bash(curl:*)",
+      "Bash(head:*)",
+      "Bash(cd \\\\\"C:\\\\Users\\\\Francisco Alderete\\\\Documents\\\\club-costa-hub-main\\\\\":*)",
+      "Bash(npx tsc:*)",
+      "Bash(taskkill:*)",
+      "Bash(kill:*)"
+    ]
+  }
+}
