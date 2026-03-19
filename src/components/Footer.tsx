@@ -16,7 +16,7 @@ const Footer = () => (
         </div>
       </div>
       <div className="mt-8 pt-6 border-t border-white/5 text-center text-white/50 text-xs">
-        © 2026 Club Costa. Todos los derechos reservados.
+        © 2026 Club Costa. Todos los derechos reservados. | Powered by Francisco Alderete
       </div>
     </div>
   </footer>

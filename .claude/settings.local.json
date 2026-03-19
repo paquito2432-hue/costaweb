@@ -16,7 +16,8 @@
       "Bash(cd \\\\\"C:\\\\Users\\\\Francisco Alderete\\\\Documents\\\\club-costa-hub-main\\\\\":*)",
       "Bash(npx tsc:*)",
       "Bash(taskkill:*)",
-      "Bash(kill:*)"
+      "Bash(kill:*)",
+      "Bash(cp:*)"
     ]
   }
 }
